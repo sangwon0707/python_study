@@ -1,0 +1,13 @@
+# 문자열 다듬기 
+# strip String a
+# a.strip() 
+a = "                 Hello         "
+b = a.strip()
+print(b, "poseidon!")
+
+#문자열 대체하기
+#replace a to b
+#String.replace(a,b)
+a = "I am newbie in Java. Java Rocks!"
+b = a.replace("Java", "Python")
+print(b)
