@@ -29,3 +29,9 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Trained models
+2025-09-05-deeplearning/model/
+
+# Datasets
+2025-09-05-deeplearning/dataset/
